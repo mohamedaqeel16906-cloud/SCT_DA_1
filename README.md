@@ -25,6 +25,6 @@ Built a professional Excel dashboard to visualize sales performance and identify
 
 ## Author
 
-Mohamed Aqeel
+K Mohamed Aqeel
 
 Aspiring Data Analysis
